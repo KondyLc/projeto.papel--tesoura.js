@@ -1,5 +1,5 @@
 # projeto.papel--tesoura.js
-JOGO PEDRA, PAPEL E TESOURA COM A ALEXA
+JOGO PEDRA, PAPEL E TESOURA COM A ALEXA <br>
   Este é um jogo simples de papel, pedra e tesoura desenvolvido em HTML, CSS e JavaScript, onde você joga contra a Alexa. 
 O objetivo do jogo é vencer a Alexa ao escolher uma opção papel, pedra ou tesoura que seja superior à opção escolhida pela Alexa.
 
